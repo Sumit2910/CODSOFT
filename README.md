@@ -1,3 +1,5 @@
+Hi! I am Sumit Modi thee owner of this repository!!
+
 All rights reserved by the owner 2024
 1)TO-DO LIST
 2)CALCULATOR
